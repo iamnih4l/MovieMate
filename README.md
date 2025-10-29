@@ -1,7 +1,7 @@
 # 🎬 MovieMate
 
-> Your personal AI-powered movie companion 🍿  
-> **MovieMate** recommends movies based on your preferences using a **hardcoded AI logic** — bringing smart suggestions with a clean, modern interface!
+Your personal AI-powered movie companion 🍿  
+**MovieMate** recommends movies based on your preferences using a **hardcoded AI logic** — bringing smart suggestions with a clean, modern interface!
 
 ---
 
