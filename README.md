@@ -44,7 +44,7 @@ Your personal AI-powered movie companion 🍿
 
 ---
 
-##🚀 Future Scope
+🚀 Future Scope
 
 -🔮 Integrate real AI models for dynamic recommendations
 -🌐 Add user authentication and watchlists
@@ -52,29 +52,29 @@ Your personal AI-powered movie companion 🍿
 
 ---
 
-##🤝 Contributing
+🤝 Contributing
 
 Want to make MovieMate even better?
 Feel free to fork the repo and submit a pull request — contributions are always welcome! 💪
 
 ---
-
-##🧑‍💻 Author
+🧑‍💻 Author
 
 Mohammed Nihal
 🎞️ Media-driven developer passionate about AI and creative storytelling.
 
 ---
+## 🎬 Pick Your Mood 🎭
 
- __  __                 _        __  __       _       
-|  \/  | ___  _ __ ___ (_) ___  |  \/  | __ _| |_ ___ 
-| |\/| |/ _ \| '_ ` _ \| |/ __| | |\/| |/ _` | __/ _ \
-| |  | | (_) | | | | | | | (__  | |  | | (_| | ||  __/
-|_|  |_|\___/|_| |_| |_|_|\___| |_|  |_|\__,_|\__\___|
+What kind of movie are you watching today?
 
+[![Action](https://img.shields.io/badge/🔥-Action-red)](#)
+[![Comedy](https://img.shields.io/badge/😂-Comedy-yellow)](#)
+[![Romance](https://img.shields.io/badge/❤️-Romance-pink)](#)
+[![Sci--Fi](https://img.shields.io/badge/🚀-Sci--Fi-blue)](#)
+[![Horror](https://img.shields.io/badge/👻-Horror-black)](#)
 
-“Because every movie deserves a smart recommendation.”
-
+> _Click your mood! Let MovieMate recommend your next favorite._
 
 ---
 
